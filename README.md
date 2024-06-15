@@ -18,7 +18,7 @@ python3 --version
 First, clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/whoismarios/python.snake-game.git
+git clone https://github.com/whoismarios/Python-Snake-Game.git
 cd snake-game
 ```
 
