@@ -76,9 +76,6 @@ deactivate
 - Try to eat the green food to grow longer.
 - Avoid running into the walls or your own tail.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
